@@ -1,12 +1,12 @@
 ---
-title: "Diganto - IIT Madras Bengali Association"
+title: "দিগন্ত (Diganto) - IIT Madras Bengali Association"
 permalink: /
 layout: default
 ---
 
 <style>
 .topnav {
-  background-color: #333;
+  background-color: #35007a;
   overflow: hidden;
   display:flex;
   justify-content:center;
@@ -39,7 +39,7 @@ layout: default
 <div>
   <a class="active" href="index.html">Home</a>
   <a href="events.html">Events</a>
-  <a href="contactus.html">Contact Us</a>
+  <a href="contacts.html">Contacts</a>
 </div>
 </div>
 <br>
