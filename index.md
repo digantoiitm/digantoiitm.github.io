@@ -4,6 +4,46 @@ permalink: /
 layout: default
 ---
 
+<style>
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+  display:flex;
+  justify-content:center;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #c4000a;
+  color: white;
+}
+</style>
+
+<div class="topnav">
+<div>
+  <a class="active" href="index.html">Home</a>
+  <a href="events.html">Events</a>
+  <a href="contactus.html">Contact Us</a>
+</div>
+</div>
+<br>
+
 <img style="float: left; padding-right: 15px; padding-bottom: 1px;" src="assets/images/logo_nb.png" alt="logo" width="300"/>
 
 <p style="font-size:40px">নমস্কার, </p>
