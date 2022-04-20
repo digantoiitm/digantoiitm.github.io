@@ -4,6 +4,4 @@ permalink: /
 layout: default
 ---
 
-# Hey 
-
-This is the basic template. Will add here.
+<img style="float: left; padding-right: 15px; padding-bottom: 1px;" src="assets/images/logo_nb.png" alt="logo" width="1000"/>
