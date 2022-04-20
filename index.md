@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Diganto - IIT Madras Bengali Association"
 permalink: /
 layout: default
 ---
