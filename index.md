@@ -4,4 +4,6 @@ permalink: /
 layout: default
 ---
 
-# Hey
+# Hey 
+
+This is the basic template. Will add here.
