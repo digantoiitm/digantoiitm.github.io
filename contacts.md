@@ -38,7 +38,7 @@ layout: default
 <div>
   <a href="index.html">Home</a>
   <a href="events.html">Events</a>
-  <a class="active" href="contactus.html">Contacts</a>
+  <a class="active" href="contacts.html">Contacts</a>
 </div>
 </div>
 <br>
