@@ -1,6 +1,5 @@
 ---
 title: "Contacts@Diganto"
-permalink: /
 layout: default
 ---
 

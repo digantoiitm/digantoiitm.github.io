@@ -1,6 +1,5 @@
 ---
 title: "Events@Diganto"
-permalink: /
 layout: default
 ---
 
