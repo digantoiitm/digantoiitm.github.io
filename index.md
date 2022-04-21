@@ -40,8 +40,7 @@ layout: default
 }
 
 .responsivetext {
-  max-width: 100%;
-  font-size: 5.9vw;
+  font-size: 3vw;
   color: red;
   height: auto;
 }
