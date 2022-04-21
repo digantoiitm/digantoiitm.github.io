@@ -32,6 +32,12 @@ layout: default
   background-color: #c4000a;
   color: white;
 }
+
+.stylishtext{
+  color: red;
+  font-size:3vw;
+  height: auto;
+}
 </style>
 
 <div class="topnav">
@@ -42,6 +48,10 @@ layout: default
 </div>
 </div>
 <br>
+
+<div align="center">
+<p class="stylishtext"> Team@দিগন্ত </p>
+</div>
 
 The current team of members responsible for the events organized by দিগন্ত are
 
