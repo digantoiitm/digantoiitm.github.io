@@ -35,8 +35,7 @@ layout: default
 }
 
 .responsive {
-  width: 100%;
-  max-width: 300px;
+  max-width: 50%;
   height: auto;
 }
 </style>
