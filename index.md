@@ -33,6 +33,12 @@ layout: default
   background-color: #c4000a;
   color: white;
 }
+
+.responsive {
+  width: 100%;
+  max-width: 250px;
+  height: auto;
+}
 </style>
 
 <div class="topnav">
@@ -44,7 +50,7 @@ layout: default
 </div>
 <br>
 
-<img style="float: left; padding-right: 15px; padding-bottom: 1px;" src="assets/images/logo_nb.png" alt="logo" width="300"/>
+<img style="float: left; padding-right: 15px; padding-bottom: 1px;" class ="responsive" src="assets/images/logo_nb.png" alt="logo" width="300"/>
 
 <p style="font-size:4vw;">নমস্কার, </p>
 
