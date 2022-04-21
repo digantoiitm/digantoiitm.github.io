@@ -36,7 +36,7 @@ layout: default
 
 .responsive {
   width: 100%;
-  max-width: 250px;
+  max-width: 300px;
   height: auto;
 }
 </style>
@@ -50,7 +50,7 @@ layout: default
 </div>
 <br>
 
-<img style="float: left; padding-right: 15px; padding-bottom: 1px;" class ="responsive" src="assets/images/logo_nb.png" alt="logo"/>
+<img style="float: right; padding-right: 15px; padding-bottom: 1px;" class ="responsive" src="assets/images/logo_nb.png" alt="logo"/>
 
 <p style="font-size:4vw;">নমস্কার, </p>
 
