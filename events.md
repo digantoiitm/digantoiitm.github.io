@@ -42,3 +42,12 @@ layout: default
 </div>
 </div>
 <br>
+
+### Upcoming Event
+
+Will be updated soon.
+
+### Past Events
+
+- বর্ষবরণ অনুষ্ঠান 1429 (2022).
+[[Recording]](https://www.youtube.com/watch?v=Rg6Zeib2LIE&t=3035s),[[Photos]](https://photos.app.goo.gl/mLsGdzVbSqu47REM8).
