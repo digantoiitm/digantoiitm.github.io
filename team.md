@@ -35,8 +35,7 @@ layout: default
 
 .stylishtext{
   color: red;
-  font-size:3vw;
-  height: auto;
+  font-size: 3vw;
 }
 </style>
 
