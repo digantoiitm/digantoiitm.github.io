@@ -43,12 +43,13 @@ layout: default
 </div>
 <br>
 
-The current team of members responsible for the events organized by দিগন্ত is
+The current team of members responsible for the events organized by দিগন্ত are
 
 |Position|Name|
 |---|---|
-| General Secretary | Kaushik Paul |
-| Assistant General Secretary | Alipriyo Hoory, Souradeep Roy |
-| Treasurer | Sudipta Nandy, Manab Mandal |
-| Cultural Secretary | Meghna Misra, Sourav Dutta |
+| General Secretary | Kaushik Paul (PH19D018) |
+| Assistant General Secretary | Alipriyo Hoory (PH20D203), Souradeep Roy (EE19D414) |
+| Treasurer | Sudipta Nandy (BT21D301), Manab Mandal (PH19D035) |
+| Cultural Secretary | Meghna Misra (EE20S034), Sourav Dutta (PH20D205) |
 
+> For any queries, please send an email to iitmdiganto@gmail.com or to the Email ID of the concerned team member. 
