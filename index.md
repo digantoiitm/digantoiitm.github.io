@@ -40,8 +40,14 @@ layout: default
 }
 
 .responsiveqr {
-  max-width: 15%;
+  max-width: 13%;
   height: auto;
+}
+
+.responsivelogo {
+  max-width: 13%;
+  height: auto;
+  float: left;
 }
 
 .responsivetext {
@@ -70,7 +76,9 @@ Diganto conducts four Bengali cultural events every academic year, namely "ржирж
 
 If you are an IIT Madras student, to join our Whatsapp group - click [here](https://chat.whatsapp.com/IGDHx5IPmR9FMIqtZ2oQcn) or please scan
 
-<div align="center">
-<img align="left" class ="responsiveqr" src="assets/images/logoiitm.svg" alt="iitmlogo"/>
-<img align="right" class="responsiveqr" src="assets/images/whatsapp_qr.png" alt="QR_code" border=1px/>
+<div align="right">
+<img class ="responsivelogo" src="assets/images/logoiitm.svg" alt="iitmlogo"/>
+<img class="responsiveqr" src="assets/images/whatsapp_qr.png" alt="QR_code" border=1px/>
 </div>
+
+---
