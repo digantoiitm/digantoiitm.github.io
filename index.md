@@ -1,5 +1,5 @@
 ---
-title: "দিগন্ত (Diganto) - IIT Madras Bengali Association"
+title: "দিগন্ত - IIT Madras Bengali Association"
 permalink: /
 layout: default
 ---
@@ -39,7 +39,7 @@ layout: default
 <div>
   <a class="active" href="index.html">Home</a>
   <a href="events.html">Events</a>
-  <a href="contacts.html">Contacts</a>
+  <a href="team.html">Team</a>
 </div>
 </div>
 <br>

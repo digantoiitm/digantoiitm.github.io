@@ -1,5 +1,5 @@
 ---
-title: "Contacts@Diganto"
+title: "Team@দিগন্ত"
 layout: default
 ---
 
@@ -38,7 +38,7 @@ layout: default
 <div>
   <a href="index.html">Home</a>
   <a href="events.html">Events</a>
-  <a class="active" href="contacts.html">Contacts</a>
+  <a class="active" href="team.html">Team</a>
 </div>
 </div>
 <br>
