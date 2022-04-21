@@ -45,8 +45,6 @@ layout: default
 
 The current team of members responsible for the events organized by দিগন্ত is
 
-<p align="center">
-
 |Position|Name|
 |---|---|
 | General Secretary | Kaushik Paul |
@@ -54,4 +52,3 @@ The current team of members responsible for the events organized by দিগন
 | Treasurer | Sudipta Nandy, Manab Mandal |
 | Cultural Secretary | Meghna Misra, Sourav Dutta |
 
-</p>
