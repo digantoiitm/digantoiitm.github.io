@@ -68,14 +68,9 @@ Wishing you a warm welcome from দিগন্ত (Diganto), the Bengali Associ
 
 Diganto conducts four Bengali cultural events every academic year, namely "নবীন বরণ" (Freshers’ Welcome) and "বিজয়া সম্মিলনী" (Bijaya Sammilani) in the odd semester, followed by "সরস্বতী পূজা" (Saraswati Puja) and "বার্ষিক সাংস্কৃতিক অনুষ্ঠান" (Annual Cultural Function) in the even semester. The idea behind these programs is not only to celebrate our culture and food but also the bonds of friendship that we form through these programs. We invite you not only to attend the events but also to participate in them wholeheartedly.
 
----
-
 If you are an IIT Madras student, to join our Whatsapp group - click [here](https://chat.whatsapp.com/IGDHx5IPmR9FMIqtZ2oQcn) or please scan
 
 <div align="center">
-
 <img align="left" class ="responsiveqr" src="assets/images/logoiitm.svg" alt="iitmlogo"/>
-<img class="responsiveqr" src="assets/images/whatsapp_qr.png" alt="QR_code" border=1px/>
+<img align="right" class="responsiveqr" src="assets/images/whatsapp_qr.png" alt="QR_code" border=1px/>
 </div>
-
----
