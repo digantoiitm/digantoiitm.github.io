@@ -54,11 +54,29 @@ layout: default
 
 The current team of members responsible for the events organized by দিগন্ত are
 
+### Core
+
 |Position|Name|
 |---|---|
-| General Secretary | Kaushik Paul (PH19D018) |
-| Assistant General Secretary | Alipriyo Hoory (PH20D203), Souradeep Roy (EE19D414) |
-| Treasurer | Sudipta Nandy (BT21D301), Manab Mandal (PH19D035) |
-| Cultural Secretary | Meghna Misra (EE20S034), Sourav Dutta (PH20D205) |
+| General Secretary | Kaushik Paul (Physics) |
+| Assistant General Secretary | Alipriyo Hoory (Physics), Souradeep Roy (Electrical) |
+| Treasurer | Sudipta Nandy (Biotechnology), Manab Mandal (Physics) |
+| Cultural Secretary | Meghna Misra (Electrical), Sourav Dutta (Physics) |
 
-> For any queries, please send an email to iitmdiganto@gmail.com or to the Email ID of the concerned team member. 
+### Department-wise Coordinators
+
+| Department | Name |
+|---|---|
+| Applied Mechanics | Shib Shundar, Paulami Mukherjee, Souvik Ghorui |
+| Civil | Sujan Mondal, Mrinal Bhowmick |
+| Biotechnology | Sudipta Nandy, Agnibina Paul |
+| Engineering Design | Rajnandini Das, Pulastha Chakrabarty |
+| Chemistry | Suvam Saha |
+| Mathematics | Samir Mondal |
+| Electrical | Souradeep Roy, Risabh Bhandari |
+| Metallurgical & Materials | Subrata Sarkar, Srijan Mandal	|
+| Physics | Alipriyo Hoory, Manab Mandal |
+| Management | Somdeep Acharya |
+| Mechanical | Agnimitra Ghosh, Pratik Mandal |
+
+> For any queries, please send an email to iitmdiganto@gmail.com. 
