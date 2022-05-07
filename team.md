@@ -54,7 +54,7 @@ layout: default
 
 The current team of members responsible for the events organized by দিগন্ত are
 
-### Core
+### <p align="center">Core Committee</p>
 
 |Position|Name|
 |---|---|
@@ -63,7 +63,7 @@ The current team of members responsible for the events organized by দিগন
 | Treasurer | Sudipta Nandy (Biotechnology), Manab Mandal (Physics) |
 | Cultural Secretary | Meghna Misra (Electrical), Sourav Dutta (Physics) |
 
-### Department-wise Coordinators
+### <p align="center">Department-wise Coordinators </p>
 
 | Department | Name |
 |---|---|
@@ -79,4 +79,4 @@ The current team of members responsible for the events organized by দিগন
 | Management | Somdeep Acharya |
 | Mechanical | Agnimitra Ghosh, Pratik Mandal |
 
-> For any queries, please send an email to iitmdiganto@gmail.com. 
+> <p align="center">Apart from the Core Committee, a lot of other people are also involved who help us conduct the events in a smooth and timely manner. If you want to join us or you have any queries, please send an email to <a href="mailto:iitmdiganto@gmail.com">iitmdiganto@gmail.com</a> or contact any of the team members. We will get back to you as soon as possible.</p>
