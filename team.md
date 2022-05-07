@@ -40,7 +40,7 @@ layout: default
 
 .stylishtext2{
   color: red;
-  font-size: 2vw;
+  font-size: 1.5vw;
 }
 </style>
 
@@ -57,7 +57,7 @@ layout: default
 <p class="stylishtext"> Team@দিগন্ত </p>
 </div>
 
-The current team of members responsible for the events organized by দিগন্ত are
+<p align="center">The current team of members responsible for the events organized by দিগন্ত are</p>
 
 <div align="center">
 
