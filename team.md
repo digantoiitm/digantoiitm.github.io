@@ -54,7 +54,11 @@ layout: default
 
 The current team of members responsible for the events organized by দিগন্ত are
 
-### <p align="center">Core Committee</p>
+<div align="center">
+
+### Core Committee
+
+</div>
 
 |Position|Name|
 |---|---|
@@ -63,7 +67,11 @@ The current team of members responsible for the events organized by দিগন
 | Treasurer | Sudipta Nandy (Biotechnology), Manab Mandal (Physics) |
 | Cultural Secretary | Meghna Misra (Electrical), Sourav Dutta (Physics) |
 
-### <p align="center">Department-wise Coordinators </p>
+<div align="center">
+
+### Department-wise Coordinators
+
+</div>
 
 | Department | Name |
 |---|---|
