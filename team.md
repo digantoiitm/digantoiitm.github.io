@@ -92,4 +92,4 @@ layout: default
 | Management | Somdeep Acharya |
 | Mechanical | Agnimitra Ghosh, Pratik Mandal |
 
-> <p align="center">Apart from the Core Committee, a lot of other people are also involved who help us conduct the events in a smooth and timely manner. If you want to join us or you have any queries, please send an email to <a href="mailto:iitmdiganto@gmail.com">iitmdiganto@gmail.com</a> or contact any of the team members. We will get back to you as soon as possible.</p>
+> <p align="center">Apart from this outstanding team, a lot of other people are also involved who help us conduct the events in a smooth and timely manner. If you want to join us or you have any queries, please send an email to <a href="mailto:iitmdiganto@gmail.com">iitmdiganto@gmail.com</a>. We will get back to you as soon as possible.</p>
