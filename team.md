@@ -37,6 +37,11 @@ layout: default
   color: red;
   font-size: 3vw;
 }
+
+.stylishtext2{
+  color: red;
+  font-size: 2vw;
+}
 </style>
 
 <div class="topnav">
@@ -56,7 +61,7 @@ The current team of members responsible for the events organized by দিগন
 
 <div align="center">
 
-### Core Committee
+<p class="stylishtext2"> Core Committee </p>
 
 </div>
 
@@ -69,7 +74,7 @@ The current team of members responsible for the events organized by দিগন
 
 <div align="center">
 
-### Department-wise Coordinators
+<p class="stylishtext2">Department-wise Coordinators</p>
 
 </div>
 
