@@ -87,7 +87,7 @@ If you are a new student/faculty at IIT Madras, please register with us, by clic
 <a href="https://forms.gle/BZstwKMBgcNHNwnd6">
 <button class="button button1">Register with দিগন্ত</button>
 </a>
-
+<br>
 <hr>
 
 <p style="color:blue;" align="center"> If you are an IIT Madras student, to join our Whatsapp group - click <a href="https://chat.whatsapp.com/IGDHx5IPmR9FMIqtZ2oQcn">here</a> or please scan </p>
