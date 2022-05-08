@@ -5,6 +5,18 @@ layout: default
 ---
 
 <style>
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
 .topnav {
   background-color: #35007a;
   overflow: hidden;
@@ -84,7 +96,7 @@ Diganto conducts four Bengali cultural events every academic year, namely "ন�
 If you are a new student/faculty at IIT Madras, please register with us, by clicking the button below, with your details so that we can send you information about our upcoming events.
 <br>
 <a href="https://forms.gle/BZstwKMBgcNHNwnd6">
-<button class="button button1">Register with দিগন্ত</button>
+<button class="button">Register with দিগন্ত</button>
 </a>
 
 <br>
