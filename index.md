@@ -80,7 +80,15 @@ Diganto conducts four Bengali cultural events every academic year, namely "ন�
 
 <div align="center">
 
-<div style="width:500px;height:150px;border:1px solid #000;" align="center">
+<div style="width:550px;height:350px;border:1px solid #000;" align="center">
+
+If you are a new student/faculty at IIT Madras, please register with us, by clicking the button below, with your details so that we can send you information about our upcoming events.
+
+<a href="https://forms.gle/BZstwKMBgcNHNwnd6">
+<button class="button button1">Register with দিগন্ত</button>
+</a>
+
+<hr>
 
 <p style="color:blue;" align="center"> If you are an IIT Madras student, to join our Whatsapp group - click <a href="https://chat.whatsapp.com/IGDHx5IPmR9FMIqtZ2oQcn">here</a> or please scan </p>
 
