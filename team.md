@@ -65,12 +65,16 @@ layout: default
 
 </div>
 
+<div align="center">
+
 |Position|Name|
 |---|---|
 | General Secretary | Kaushik Paul (Physics) |
 | Assistant General Secretary | Alipriyo Hoory (Physics), Souradeep Roy (Electrical) |
-| Treasurer | Sudipta Nandy (Biotechnology), Manab Mandal (Physics) |
+| Treasurer | Sudipta Nandi (Biotechnology), Manab Mandal (Physics) |
 | Cultural Secretary | Meghna Misra (Electrical), Sourav Dutta (Physics) |
+
+</div>
 
 <div align="center">
 
@@ -78,18 +82,23 @@ layout: default
 
 </div>
 
+
+<div align="center">
+
 | Department | Name |
 |---|---|
-| Applied Mechanics | Shib Shundar, Paulami Mukherjee, Souvik Ghorui |
+| Applied Mechanics | Paulami Mukherjee, Souvik Ghorui |
 | Civil | Sujan Mondal, Mrinal Bhowmick |
-| Biotechnology | Sudipta Nandy, Agnibina Paul |
-| Engineering Design | Rajnandini Das, Pulastha Chakrabarty |
+| Biotechnology | Sudipta Nandi, Agnibina Paul |
+| Engineering Design | Rajnandini Das, Pulasta Chakrabarty |
 | Chemistry | Suvam Saha |
 | Mathematics | Samir Mondal |
 | Electrical | Souradeep Roy, Risabh Bhandari |
-| Metallurgical & Materials | Subrata Sarkar, Srijan Mandal	|
+| Metallurgical & Materials | Subrata Sarkar, Srijan Mondal	|
 | Physics | Alipriyo Hoory, Manab Mandal |
 | Management | Somdeep Acharya |
 | Mechanical | Agnimitra Ghosh, Pratik Mandal |
+
+</div>
 
 > <p align="center">Apart from this outstanding team, a lot of other people are also involved who help us conduct the events in a smooth and timely manner. If you want to join us or you have any queries, please send an email to <a href="mailto:iitmdiganto@gmail.com">iitmdiganto@gmail.com</a>. We will get back to you as soon as possible.</p>
