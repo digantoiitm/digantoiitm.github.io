@@ -70,7 +70,7 @@ layout: default
 
 <p class="responsivetext">নমস্কার, </p>
 
-<p style="color:black; background-color:white">
+<p style="color:black;">
 Wishing you a warm welcome from দিগন্ত (Diganto), the Bengali Association of IIT Madras. Diganto is not only an organization that unites all Bengalees who are part of this institute, but it is more like a family where we meet people speaking our native language and share the same culture that brings us the essence of being at home in Chennai. We heartily welcome you to be a part of our family.
 
 Diganto conducts four Bengali cultural events every academic year, namely "নবীন বরণ" (Freshers’ Welcome) and "বিজয়া সম্মিলনী" (Bijaya Sammilani) in the odd semester, followed by "সরস্বতী পূজা" (Saraswati Puja) and "বার্ষিক সাংস্কৃতিক অনুষ্ঠান" (Annual Cultural Function) in the even semester. The idea behind these programs is not only to celebrate our culture and food but also the bonds of friendship that we form through these programs. We invite you not only to attend the events but also to participate in them wholeheartedly.
