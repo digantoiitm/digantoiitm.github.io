@@ -40,7 +40,7 @@ layout: default
 
 .stylishtext2{
   color: red;
-  font-size: 1.5vw;
+  font-size: 2.3vw;
 }
 </style>
 
@@ -71,6 +71,7 @@ layout: default
 | Assistant General Secretary | Alipriyo Hoory (Physics), Souradeep Roy (Electrical) |
 | Treasurer | Sudipta Nandi (Biotechnology), Manab Mandal (Physics) |
 | Cultural Secretary | Meghna Misra (Electrical), Sourav Dutta (Physics) |
+| Techinal Manager| Dhrubajyoti Biswas (Physics) |
 
 <div align="center">
 
