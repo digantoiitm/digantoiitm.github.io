@@ -88,8 +88,7 @@ If you are a new student/faculty at IIT Madras, please register with us, by clic
 </a>
 
 <br>
-
----
+<br>
 
 <p style="color:blue;" align="center"> If you are an IIT Madras student, to join our Whatsapp group - click <a href="https://chat.whatsapp.com/IGDHx5IPmR9FMIqtZ2oQcn">here</a> or please scan </p>
 
