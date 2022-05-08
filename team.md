@@ -59,11 +59,7 @@ layout: default
 
 <p align="center">The current team of members responsible for the events organized by দিগন্ত are</p>
 
-<div align="center">
-
-<p class="stylishtext2"> Core Committee </p>
-
-</div>
+### Core Members
 
 |Position|Name|
 |---|---|
@@ -73,11 +69,7 @@ layout: default
 | Cultural Secretary | Meghna Misra (Electrical), Sourav Dutta (Physics) |
 | Techinal Manager| Dhrubajyoti Biswas (Physics) |
 
-<div align="center">
-
-<p class="stylishtext2">Department-wise Coordinators</p>
-
-</div>
+### Department Coordinators
 
 | Department | Name |
 |---|---|
