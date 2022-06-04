@@ -37,7 +37,7 @@ layout: default
 
 .responsive {
   max-width: 50%;
-  height: auto;
+  height: 50%;
 }
 
 .responsiveqr {
