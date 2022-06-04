@@ -37,12 +37,12 @@ layout: default
 
 .responsive {
   max-width: 50%;
-  height: 25vh;;
+  height: 50vh;
 }
 
 .responsiveqr {
   max-width: 15%;
-  height: auto;
+  height: 50vh;
 }
 
 .responsivelogo {
