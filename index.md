@@ -42,7 +42,7 @@ layout: default
 
 .responsiveqr {
   max-width: 5%;
-  height: 20vh;
+  height: 2vh;
 }
 
 .responsivelogo {
