@@ -41,7 +41,7 @@ layout: default
 }
 
 .responsiveqr {
-  max-width: 15%;
+  max-width: 5%;
   height: 20vh;
 }
 
