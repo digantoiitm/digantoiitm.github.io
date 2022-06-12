@@ -17,6 +17,8 @@ body {
     font-weight:300;
     background:url('../images/back.JPG') fixed;
     background-size: cover;
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
     min-height: 100%;
   }
 
