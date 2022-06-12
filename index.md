@@ -7,7 +7,7 @@ layout: default
 <style>
 
 .topnav {
-  background-color: #5500ff;
+  background-color: #ffffff;
   overflow: hidden;
   display:flex;
   justify-content:center;
