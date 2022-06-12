@@ -2,9 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+
 html {
     background:#000000;
-    background: #354150 linear-gradient(#000000, #ffffff) fixed;
+    background: #354150 linear-gradient(#ff0000, #5500ff) fixed;
     height: 100%;
   }
   
