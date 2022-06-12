@@ -67,7 +67,7 @@ layout: default
 | Assistant General Secretary | Alipriyo Hoory (Physics), Souradeep Roy (Electrical) |
 | Treasurer | Sudipta Nandi (Biotechnology), Manab Mandal (Physics) |
 | Cultural Secretary | Meghna Misra (Electrical), Sourav Dutta (Physics) |
-| Techinal Manager| Dhrubajyoti Biswas (Physics) |
+| Technical Manager| Dhrubajyoti Biswas (Physics) |
 
 ### Department Coordinators
 
