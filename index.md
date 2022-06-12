@@ -69,7 +69,7 @@ layout: default
 
 <img style="float: right; padding-right: 15px; padding-bottom: 1px;" class ="responsive" src="assets/images/logo_nb_iitm.png" alt="logo"/>
 
-<p align="center" class="responsivetext">নমস্কার, </p>
+# নমস্কার,
 
 <p style="color:black;">
 Wishing you a warm welcome from দিগন্ত (Diganto), the Bengali Association of IIT Madras. Diganto is not only an organization that unites all Bengalees who are part of this institute, but it is more like a family where we meet people speaking our native language and share the same culture that brings us the essence of being at home in Chennai. We heartily welcome you to be a part of our family.
