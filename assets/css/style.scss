@@ -5,7 +5,7 @@
 
 html {
     background:#000000;
-    background: #354150 linear-gradient(to right, #ffffff, #000000) fixed;
+    background: #354150 linear-gradient(to right, #000000, #000000) fixed;
     height: 100%;
   }
   
@@ -31,7 +31,7 @@ body {
 header {
   border-radius: 8px 8px 0 0;
   background:#C6EAFA;
-  background: linear-gradient(to right, #ffe600 50%, #000000);
+  background: linear-gradient(to right, #000000 50%, #000000);
   position:relative;
   padding:15px 20px;
   border-bottom:1px solid #000000;
@@ -41,7 +41,7 @@ header {
     padding:0;
     font-size:24px;
     line-height:1.2;
-    color:rgb(0, 0, 0);
+    color:#fffb00;
     text-shadow:rgba(#fff, 0.9) 0 1px 0;
   }
 
@@ -51,9 +51,9 @@ header {
 
   p {
     margin:0;
-    color:#61778B;
+    color:#fffb00;
     width:300px;
-    font-size:13px;
+    font-size:20px;
 
     &.view {
       display:none;
