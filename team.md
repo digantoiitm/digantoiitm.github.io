@@ -53,9 +53,7 @@ layout: default
 </div>
 <br>
 
-<div align="center">
-<p class="stylishtext"> Team@দিগন্ত </p>
-</div>
+# Team for the Year - 2022/23
 
 <p align="center">The current team of members responsible for the events organized by দিগন্ত are</p>
 
