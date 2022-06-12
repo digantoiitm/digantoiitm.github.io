@@ -30,7 +30,7 @@ body {
 header {
   border-radius: 8px 8px 0 0;
   background:#C6EAFA;
-  background: linear-gradient(#ff0000, #5500ff);
+  background: linear-gradient(to right, #ffe600 50%, #000000);
   position:relative;
   padding:15px 20px;
   border-bottom:1px solid #000000;
@@ -40,7 +40,7 @@ header {
     padding:0;
     font-size:24px;
     line-height:1.2;
-    color:#069;
+    color:rgb(0, 0, 0);
     text-shadow:rgba(#fff, 0.9) 0 1px 0;
   }
 
