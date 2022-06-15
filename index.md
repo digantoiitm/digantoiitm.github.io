@@ -36,7 +36,7 @@ layout: default
 }
 
 .responsive {
-  max-width: 50%;
+  max-width: 60%;
   height: 30vh;
 }
 

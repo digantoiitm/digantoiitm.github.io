@@ -42,6 +42,14 @@ layout: default
   color: red;
   font-size: 2.3vw;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+  height: auto;
+}
 </style>
 
 <div class="topnav">
@@ -55,7 +63,8 @@ layout: default
 
 # Team for the Year - 2022/23
 
-<p align="center">The current team of members responsible for the events organized by দিগন্ত are</p>
+<img style="float: center; padding-right: 15px; padding-bottom: 10px;" class ="center" src="assets/images/group.png" alt="team"/>
+
 
 ### Core Members
 
@@ -64,7 +73,7 @@ layout: default
 | General Secretary | Kaushik Paul (Physics) |
 | Assistant General Secretary | Alipriyo Hoory (Physics), Souradeep Roy (Electrical) |
 | Treasurer | Sudipta Nandi (Biotechnology), Manab Mandal (Physics) |
-| Cultural Secretary | Meghna Misra (Electrical), Sourav Dutta (Physics) |
+| Cultural Group | Secretaries:Meghna Misra (Electrical) and Sourav Dutta (Physics);  Srestha Roy (Physics), Ushasi Chakrabarti (Biotechnology) |
 | Technical Manager| Dhrubajyoti Biswas (Physics) |
 
 ### Department Coordinators
@@ -84,3 +93,5 @@ layout: default
 | Mechanical | Agnimitra Ghosh, Pratik Mandal |
 
 > <p align="center">Apart from this outstanding team, a lot of other people are also involved who help us conduct the events in a smooth and timely manner. If you want to join us or you have any queries, please send an email to <a href="mailto:iitmdiganto@gmail.com">iitmdiganto@gmail.com</a>. We will get back to you as soon as possible.</p>
+
+We are also very thankful to the members from the previous team who continue to be involved with us.
